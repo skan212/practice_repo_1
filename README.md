@@ -1,4 +1,6 @@
 # practice one
+## subheader
+Currently using VS Code
 Focusing on basic commands: 
 1. creating repo
 2. clonging repo to local machine
