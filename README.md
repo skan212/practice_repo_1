@@ -10,3 +10,4 @@ Focusing on basic commands:
 8. gitlabs runner script
 9. create issue in repository
 10. start wiki page in repository
+Note: uncertain if bash script will run on github
